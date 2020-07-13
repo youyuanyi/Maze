@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/maze">
+        <file>image/bg.jpg</file>
+        <file>image/bgm.wav</file>
+        <file>image/haimianbaobao.jpg</file>
+        <file>image/haimianbaobao1.jpg</file>
+        <file>image/paidaxing.jpg</file>
+        <file>image/road.jpg</file>
+        <file>image/wall.jpg</file>
+        <file>image/counttime.jpg</file>
+        <file>image/startgame.jpg</file>
+        <file>image/zhangyuge.jpg</file>
+    </qresource>
+</RCC>
